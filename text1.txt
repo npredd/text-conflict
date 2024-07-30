@@ -1,4 +1,9 @@
 this is firstline
 this is secondline
+<<<<<<< HEAD
 afgasgth
 aghgsdh
+=======
+this is thirdline
+this is fourthline
+>>>>>>> 0956b9b1c3645e1a52b049a434defeb4c4cd5bed
